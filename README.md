@@ -63,10 +63,6 @@
 Contributions are welcome! Please open an issue or submit a pull request.  
 Ensure code style guidelines are followed and tests pass.
 
----
-
-## 📜 License  
-This project is released under the [MIT License](LICENSE) (or whichever license you prefer).
 
 ---
 
